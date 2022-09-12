@@ -39,7 +39,7 @@
             <ul>
                 <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
                 <li><a class="nav-link scrollto" href="#about">Sobre Mí</a></li>
-                <li><a class="nav-link scrollto" href="#resume">CV</a></li>
+                <li><a class="nav-link scrollto" href="#resume">Historia</a></li>
                 <li><a class="nav-link scrollto" href="#contact">Contacto</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
